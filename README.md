@@ -36,8 +36,8 @@ Uma ferramenta de análise automatizada que utiliza Azure AI para detectar poss�
 
 1. Clone o repositório:
 ```bash
-git clone https://seu-repositorio/analisador-documentos.git
-cd analisador-documentos
+git clone https://github.com/fpedrolucas95/DIO-Antifraude-Azure.git
+cd DIO-Antifraude-Azure
 ```
 
 2. Instale as dependências:
